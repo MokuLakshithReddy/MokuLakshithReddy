@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MokuLakshithReddy&color=161b22&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
+    <a href="https://github.com/MokuLakshithReddy"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23161b22&style=for-the-badge" alt="Profile Views" /></a>
     <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-350%2B_Installs-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
     <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-35%2B-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
     <img src="https://img.shields.io/badge/Status-GitHub_Pro-161b22?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub Pro" />
@@ -115,13 +115,44 @@ Beyond public open-source tools, my engineering laboratory spans 17+ private rep
 
 ---
 
+### 📬 Connect With Me
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="45%">
+      <h4>Direct Transmission</h4>
+      <a href="mailto:mokulakshithreddy@gmail.com">
+        <img src="https://img.shields.io/badge/Email-mokulakshithreddy%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+      </a>
+      <br/><br/>
+      <a href="https://linkedin.com/in/mokulakshithreddy">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+      </a>
+      &nbsp;
+      <a href="https://x.com">
+        <img src="https://img.shields.io/badge/X-Follow-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
+      </a>
+      <br/><br/>
+      <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">
+        <img src="https://img.shields.io/badge/Open_VSX-Extension-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/MokuLakshithReddy">
+        <img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+      </a>
+    </td>
+    <td width="55%">
+      <h4>What We Can Build Together</h4>
+      <ul>
+        <li>🤖 <strong>AI Systems & Multi-Agent Workflows</strong>: Stateful reasoning engines, deterministic transition guards, and real-time streaming architectures.</li>
+        <li>🛡️ <strong>DevSecOps & Code Intelligence</strong>: Compiler-backed AST scanners, entropy analysis, and pre-commit security gates.</li>
+        <li>⚡ <strong>Full-Stack Cloud Platforms</strong>: Next.js 16, Supabase Row-Level Security, and distributed data pipelines.</li>
+        <li>🤝 <strong>High-Impact Engineering Opportunities</strong>: Open to full-time engineering roles, high-scale collaborations, and research.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <h3>💼 Encrypted Drop / Transmit Channel</h3>
-  <p>Seeking technical collaborations, AI agent architecture discussions, or security engineering inquiries.</p>
-  
-  <a href="https://github.com/MokuLakshithReddy"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-Extension-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
-  &nbsp;
-  <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/All_Dossiers-Repositories-000000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Repositories" /></a>
+  <sub>🕵️‍♂️ <i>"Case files updated. Transmission open."</i></sub>
 </div>
