@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0d1117,100:161b22&height=220&section=header&text=LAKSHITH%20REDDY&fontSize=42&fontAlignY=36&animation=fadeIn&desc=%E2%80%94%20THE%20DIGITAL%20DETECTIVE%20%E2%80%94%20AI%20SYSTEMS%20%C2%B7%20DEVSECOPS%20%C2%B7%20SECURITY%20ENGINEERING&descFontSize=14&descAlignY=60&fontColor=ffffff&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0d1117,100:161b22&height=220&section=header&text=LAKSHITH%20REDDY&fontSize=42&fontAlignY=36&animation=fadeIn&desc=AI%20SYSTEMS%20%C2%B7%20DEVSECOPS%20%C2%B7%20SECURITY%20ENGINEERING&descFontSize=14&descAlignY=60&fontColor=ffffff&descColor=8b949e" width="100%"/>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Hunting+Credential+Leaks+in+the+Shadows;Unmasking+Telemetry+vs+Policy+Discrepancies;Architecting+Stateful+Agentic+Reasoning+Engines;Building+Verifiable,+Fail-Closed+Security+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Building+Compiler-Backed+Security+Tooling;Architecting+Stateful+Agentic+Reasoning+Engines;Cross-Examining+Telemetry+vs+Privacy+Policies;Full-Stack+Web+Platforms+with+Verifiable+RLS" alt="Typing SVG" />
   </p>
 
   <p align="center">
     <a href="https://github.com/MokuLakshithReddy"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23161b22&style=for-the-badge" alt="Profile Views" /></a>
     <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/open-vsx/dt/MokuLakshithReddy/secret-leak-detector?style=for-the-badge&label=Open%20VSX%20Downloads&color=161b22&labelColor=000000&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX Downloads" /></a>
-    <img src="https://img.shields.io/badge/Status-GitHub_Pro-161b22?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub Pro" />
   </p>
 </div>
 
@@ -18,8 +17,8 @@
 
 Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic workflows & verifiable web platforms.
 
-**Currently:** Managing Director & Technical Lead @ [FlyAxis Overseas](https://lakshith-s-portfolio.vercel.app/)  
-**Skills:** TypeScript / Next.js 16 · Python / FastAPI · Agentic AI · Supabase PostgreSQL RLS · AST-Backed Analysis
+**Currently:** Managing Director & Technical Lead @ **FlyAxis Overseas**  
+**Skills:** TypeScript / Next.js 16 · Python / FastAPI · Agentic AI · Supabase PostgreSQL RLS · AST Analysis
 
 [![Open VSX](https://img.shields.io/badge/Open_VSX-Secret_Leak_Detector-000?style=flat-square&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lakshith--s--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://lakshith-s-portfolio.vercel.app/)
@@ -29,20 +28,19 @@ Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic wor
 
 ---
 
-### 🕵️‍♂️ Operative Dossier
+### 📋 Engineering Profile
 
 ```yaml
-┌── [CASE FILE: LAKSHITH REDDY // OPERATIVE DOSSIER] ─────────────────────┐
-│ Role        : B.Tech AI & ML Student & Software Developer               │
-│ Leadership  : Managing Director & Tech Lead · FlyAxis Overseas          │
+┌── [ENGINEERING SUMMARY: LAKSHITH REDDY] ────────────────────────────────┐
+│ Status      : B.Tech AI & ML Student · Malla Reddy Vishwavidyapeeth     │
+│ Leadership  : Managing Director & Technical Lead · FlyAxis Overseas     │
 │ Focus Areas : AI Systems · Developer Security Tooling · Web Platforms   │
-│ Methods     : TypeScript Compiler AST Analysis, Entropy & Postgres RLS │
-│ Stack       : TypeScript, Python, Next.js 16, Supabase, PostgreSQL      │
-│ Conviction  : "In God we trust. All others must bring telemetry."       │
+│ Core Stack  : TypeScript, Python, Next.js 16, Supabase, PostgreSQL      │
+│ Method      : Compiler AST Analysis, Shannon Entropy & RLS Verification │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-> *Operating at the intersection of AI architecture, developer tools, and web security. Like an investigator tracing clues, I examine multi-signal telemetry, deconstruct multi-step cognitive reasoning pathways, and audit system behavior beneath declared policies.*
+> *Focused on developer tooling, static analysis, and agentic AI systems. I design tools that enforce fail-closed security invariants, structure multi-step cognitive reasoning pathways, and verify runtime system telemetry against declared policies.*
 
 ---
 
@@ -76,7 +74,7 @@ Upstream pull requests, open-source tooling, and merged contributions:
 
 ### 💼 Experience
 
-**Managing Director & Technical Lead — [FlyAxis Overseas](https://lakshith-s-portfolio.vercel.app/)** · 2025–Present  
+**Managing Director & Technical Lead — FlyAxis Overseas** · 2025–Present  
 - **Executive Leadership**: Directing organizational roadmap, digital presence, and operational strategy.
 - **Technical & Product**: Architecting the web platform, automated lead/client workflows, serverless APIs, and responsive UI performance with GSAP.
 
@@ -117,9 +115,9 @@ Focus: Artificial Intelligence, Machine Learning Systems, Software Engineering, 
 
 ---
 
-### 🔬 Classified R&D (Private Engineering Depth)
+### 🔬 Systems & Architecture R&D (Private Repositories)
 
-Beyond public open-source tools, my engineering laboratory spans 14+ private repositories across critical systems:
+In addition to public open-source tools, my engineering work spans proprietary projects across grid systems, computer vision, and data pipelines:
 
 * ⚡ **IntelliGrid & Electricity Optimization**: Smart energy grid load balancing, anomaly detection, and reactive power management.
 * 🌊 **BlueCarbon Registry**: Geospatial marine carbon offset & MRV (Measurement, Reporting & Verification) registry with Leaflet and Supabase.
@@ -129,54 +127,48 @@ Beyond public open-source tools, my engineering laboratory spans 14+ private rep
 
 ---
 
-### 🛠️ The Noir Arsenal
+### 💻 Technical Stack & Demonstrated Tooling
+
+Technologies prioritized and validated across featured production tools and open-source contributions:
 
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="22%"><strong>Core Languages</strong></td>
+    <td width="28%"><strong>Core Specialization</strong><br><sub>Demonstrated in flagship tools</sub></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-      <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
-      <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend & Interface</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
       <img src="https://img.shields.io/badge/Next.js_16-161b22?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Vite-161b22?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite" />
-      <img src="https://img.shields.io/badge/Framer_Motion-161b22?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
       <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=ffffff" alt="Supabase" />
       <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
-      <img src="https://img.shields.io/badge/REST_%26_SSE-161b22?style=for-the-badge&logo=postman&logoColor=ffffff" alt="APIs" />
+      <br>
+      <sub><em>TypeScript Compiler AST parsing (Secret Leak Detector) · 5-mode AI state machine (ThinkMate) · Telemetry interception (PrivacyLens)</em></sub>
     </td>
   </tr>
   <tr>
-    <td><strong>Security & DevOps</strong></td>
+    <td><strong>Frameworks & APIs</strong><br><sub>Production architectures</sub></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+      <img src="https://img.shields.io/badge/React_19-161b22?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+      <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/VS_Code_API-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code API" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security, Testing & Cloud</strong><br><sub>Verification & deployment</sub></td>
+    <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=github-actions&logoColor=ffffff" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=ffffff" alt="Playwright" />
+      <img src="https://img.shields.io/badge/SARIF_v2.1.0-161b22?style=for-the-badge&logo=oasis&logoColor=ffffff" alt="SARIF" />
       <img src="https://img.shields.io/badge/Vitest-161b22?style=for-the-badge&logo=vitest&logoColor=ffffff" alt="Vitest" />
-      <img src="https://img.shields.io/badge/VS_Code_API-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=ffffff" alt="Playwright" />
+      <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Surveillance Telemetry & Global Metrics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MokuLakshithReddy&show_icons=true&bg_color=0d1117&text_color=8b949e&icon_color=ffffff&title_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
@@ -194,7 +186,7 @@ Beyond public open-source tools, my engineering laboratory spans 14+ private rep
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center" width="45%">
-      <h4>Direct Transmission</h4>
+      <h4>Contact & Profiles</h4>
       <a href="mailto:mokulakshithreddy@gmail.com">
         <img src="https://img.shields.io/badge/Email-mokulakshithreddy%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
       </a>
@@ -228,5 +220,5 @@ Beyond public open-source tools, my engineering laboratory spans 14+ private rep
 </table>
 
 <div align="center">
-  <sub>🕵️‍♂️ <i>"Case files updated. Transmission open."</i></sub>
+  <sub><i>Open to software engineering roles, high-scale collaborations, and systems research.</i></sub>
 </div>
