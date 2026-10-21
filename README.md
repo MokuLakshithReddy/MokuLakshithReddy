@@ -49,34 +49,9 @@ I build developer security tools, stateful agentic AI reasoning workflows, and v
 
 ### 📊 Activity Overview & Ecosystem Contributions
 
-<p align="left">
-  <a href="https://github.com/MokuLakshithReddy"><img src="https://img.shields.io/badge/@FlyAxis--Overseas-161b22?style=flat-square&logo=github&logoColor=white" alt="@FlyAxis-Overseas" /></a>
-  <a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector"><img src="https://img.shields.io/badge/@Open--VSX-161b22?style=flat-square&logo=visualstudiocode&logoColor=white" alt="@Open-VSX" /></a>
-  <a href="https://github.com/MokuLakshithReddy/libreswan.github.io"><img src="https://img.shields.io/badge/@libreswan-161b22?style=flat-square&logo=linux&logoColor=white" alt="@libreswan" /></a>
-  <a href="https://github.com/MokuLakshithReddy/fineract-consumer-facing"><img src="https://img.shields.io/badge/@apache-161b22?style=flat-square&logo=apache&logoColor=white" alt="@apache" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/main/assets/activity-overview.svg" width="100%" alt="Activity Overview & Contributions" />
 </p>
-
-```text
-Activity overview:
-Contributed to Secret_Leak_Detector, thinkmate, PrivacyLens, PiggyBack, campus-connect
-and 32 other public & private repositories across DevSecOps, AI agents, and systems.
-```
-
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%">
-      <strong>Engineering Activity Breakdown</strong>
-      <ul>
-        <li>⚡ <strong>Commits (68%)</strong>: Core algorithmic engines, AST parsers, and full-stack route architectures.</li>
-        <li>🔄 <strong>Pull Requests (28%)</strong>: Feature branches, CI gate validations, and security refactoring.</li>
-        <li>🛡️ <strong>Code Review & Verification (4%)</strong>: Static code analysis, vulnerability audit triage, and regression testing.</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MokuLakshithReddy&show_icons=true&bg_color=0d1117&text_color=8b949e&icon_color=ffffff&title_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true" width="95%" alt="GitHub Activity Stats" />
-    </td>
-  </tr>
-</table>
 
 ---
 
