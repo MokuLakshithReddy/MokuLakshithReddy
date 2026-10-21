@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" width="100%" height="100%">
+  <defs>
+    <style>
+      :root {
+        --axis-color: #238636;
+        --poly-fill: rgba(46, 160, 67, 0.42);
+        --poly-stroke: #2ea043;
+        --dot-fill: #ffffff;
+        --text-color: #57606a;
+        --bold-color: #24292f;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --axis-color: #238636;
+          --poly-fill: rgba(46, 160, 67, 0.45);
+          --poly-stroke: #3fb950;
+          --dot-fill: #0d1117;
+          --text-color: #8b949e;
+          --bold-color: #e6edf3;
+        }
+      }
+      .axis { stroke: var(--axis-color); stroke-width: 2; stroke-linecap: round; }
+      .radar-poly { fill: var(--poly-fill); stroke: var(--poly-stroke); stroke-width: 1.8; }
+      .radar-dot { fill: var(--dot-fill); stroke: var(--axis-color); stroke-width: 2.2; }
+      .label-num { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: var(--bold-color); text-anchor: middle; }
+      .label-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 400; fill: var(--text-color); text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- Crosshair Axes -->
+  <line x1="200" y1="70" x2="200" y2="290" class="axis" />
+  <line x1="90" y1="180" x2="310" y2="180" class="axis" />
+
+  <!-- Shaded Activity Polygon -->
+  <polygon points="200,168 212,180 200,215.2 129.6,180" class="radar-poly" />
+
+  <!-- Center Dot -->
+  <circle cx="200" cy="180" r="2" fill="var(--axis-color)" />
+
+  <!-- Axis Data Point Circles (Hollow dot with axis border) -->
+  <circle cx="200" cy="168" r="4.5" class="radar-dot" />
+  <circle cx="212" cy="180" r="4.5" class="radar-dot" />
+  <circle cx="200" cy="215.2" r="4.5" class="radar-dot" />
+  <circle cx="129.6" cy="180" r="4.5" class="radar-dot" />
+
+  <!-- Labels -->
+  <!-- Top: Code review -->
+  <text x="200" y="44" class="label-num">1%</text>
+  <text x="200" y="60" class="label-desc">Code review</text>
+
+  <!-- Bottom: Pull requests -->
+  <text x="200" y="310" class="label-num">32%</text>
+  <text x="200" y="326" class="label-desc">Pull requests</text>
+
+  <!-- Left: Commits -->
+  <text x="74" y="176" class="label-num" text-anchor="end">64%</text>
+  <text x="74" y="194" class="label-desc" text-anchor="end">Commits</text>
+
+  <!-- Right: Issues -->
+  <text x="326" y="176" class="label-num" text-anchor="start">3%</text>
+  <text x="326" y="194" class="label-desc" text-anchor="start">Issues</text>
+</svg>
