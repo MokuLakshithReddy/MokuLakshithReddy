@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 210" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8px; }
+      .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #e6edf3; }
+      .text-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; line-height: 1.5; }
+      .text-link { fill: #58a6ff; font-weight: 500; }
+      .text-pill { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #c9d1d9; }
+      .pill-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 12px; }
+      .axis { stroke: #238636; stroke-width: 1.5; }
+      .radar-poly { fill: rgba(46, 160, 67, 0.45); stroke: #3fb950; stroke-width: 1.5; }
+      .radar-point { fill: #0d1117; stroke: #3fb950; stroke-width: 2; }
+      .label-stat { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; text-anchor: middle; }
+      .label-stat-bold { font-weight: 600; fill: #c9d1d9; }
+      .divider { stroke: #21262d; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="738" height="208" class="bg" />
+
+  <!-- Top Org Pills -->
+  <g transform="translate(16, 16)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="130" height="26" class="pill-bg" />
+      <circle cx="14" cy="13" r="5" fill="#58a6ff" opacity="0.8"/>
+      <text x="26" y="17" class="text-pill">FlyAxis-Overseas</text>
+    </g>
+    <!-- Pill 2 -->
+    <g transform="translate(138, 0)">
+      <rect width="102" height="26" class="pill-bg" />
+      <circle cx="14" cy="13" r="5" fill="#3fb950" opacity="0.8"/>
+      <text x="26" y="17" class="text-pill">@libreswan</text>
+    </g>
+    <!-- Pill 3 -->
+    <g transform="translate(248, 0)">
+      <rect width="90" height="26" class="pill-bg" />
+      <circle cx="14" cy="13" r="5" fill="#f0883e" opacity="0.8"/>
+      <text x="26" y="17" class="text-pill">@apache</text>
+    </g>
+    <!-- Pill 4 -->
+    <g transform="translate(346, 0)">
+      <rect width="102" height="26" class="pill-bg" />
+      <circle cx="14" cy="13" r="5" fill="#a371f7" opacity="0.8"/>
+      <text x="26" y="17" class="text-pill">@Open-VSX</text>
+    </g>
+  </g>
+
+  <!-- Left Column: Activity Overview -->
+  <g transform="translate(20, 72)">
+    <text x="0" y="0" class="text-title">Activity overview</text>
+    
+    <!-- Repository icon + text -->
+    <g transform="translate(0, 18)">
+      <svg x="0" y="2" width="16" height="16" viewBox="0 0 16 16" fill="#8b949e">
+        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h6.5a.25.25 0 0 1 .25.25v1.5a.25.25 0 0 1-.25.25h-6.5a.25.25 0 0 1-.25-.25Z"></path>
+      </svg>
+      <text x="24" y="14" class="text-body">
+        Contributed to <tspan class="text-link">MokuLakshithReddy/Secret_Leak_Detector</tspan>,
+      </text>
+      <text x="24" y="32" class="text-body">
+        <tspan class="text-link">MokuLakshithReddy/thinkmate</tspan>, <tspan class="text-link">campus-connect</tspan>,
+      </text>
+      <text x="24" y="50" class="text-body">
+        <tspan class="text-link">libreswan/libreswan.github.io</tspan> and 34 other repositories
+      </text>
+    </g>
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="430" y1="62" x2="430" y2="190" class="divider" />
+
+  <!-- Right Column: Radar Chart -->
+  <g id="radar-chart">
+    <!-- Axes -->
+    <!-- Vertical axis (Reviews top to PRs bottom) -->
+    <line x1="580" y1="40" x2="580" y2="180" class="axis" />
+    <!-- Horizontal axis (Commits left to Issues right) -->
+    <line x1="510" y1="110" x2="650" y2="110" class="axis" />
+
+    <!-- Radar Polygon -->
+    <polygon points="580,104 586,110 580,118 519.55,110" class="radar-poly" />
+
+    <!-- Center dot -->
+    <circle cx="580" cy="110" r="2" fill="#30363d" />
+
+    <!-- Data Points on Axes -->
+    <circle cx="580" cy="104" r="3.5" class="radar-point" />
+    <circle cx="580" cy="118" r="3.5" class="radar-point" />
+    <circle cx="519.55" cy="110" r="3.5" class="radar-point" />
+    <circle cx="586" cy="110" r="3.5" class="radar-point" />
+
+    <!-- Labels -->
+    <!-- Top: Code review -->
+    <text x="580" y="28" class="label-stat">
+      <tspan class="label-stat-bold">1%</tspan>
+      <tspan dy="12" x="580">Code review</tspan>
+    </text>
+
+    <!-- Bottom: Pull requests -->
+    <text x="580" y="192" class="label-stat">
+      <tspan class="label-stat-bold">4%</tspan>
+      <tspan dy="12" x="580">Pull requests</tspan>
+    </text>
+
+    <!-- Left: Commits -->
+    <text x="498" y="108" class="label-stat" text-anchor="end">
+      <tspan class="label-stat-bold">93%</tspan>
+      <tspan dy="12" x="498">Commits</tspan>
+    </text>
+
+    <!-- Right: Issues -->
+    <text x="662" y="108" class="label-stat" text-anchor="start">
+      <tspan class="label-stat-bold">3%</tspan>
+      <tspan dy="12" x="662">Issues</tspan>
+    </text>
+  </g>
+</svg>
