@@ -74,14 +74,6 @@ Contributions, upstream pull requests, and open-source tooling:
 
 ---
 
-### 📊 Activity Overview & Ecosystem Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/main/assets/activity-overview.svg" width="100%" alt="Activity Overview & Contributions" />
-</p>
-
----
-
 ### 💼 Experience
 
 **Managing Director & Technical Lead — [FlyAxis Overseas](https://lakshith-s-portfolio.vercel.app/)** · 2025–Present  
