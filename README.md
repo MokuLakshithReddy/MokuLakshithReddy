@@ -47,14 +47,6 @@ Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic wor
 
 ---
 
-### 📊 Activity Overview & Ecosystem Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/main/assets/activity-overview.svg" width="100%" alt="Activity Overview & Contributions" />
-</p>
-
----
-
 ### 📂 Projects
 
 | Project | Outcome | Stack |
@@ -79,6 +71,14 @@ Contributions, upstream pull requests, and open-source tooling:
 | **[Apache Fineract](https://github.com/MokuLakshithReddy/fineract-consumer-facing)** | Exploration / Fork | Codebase exploration and architectural review of open-source financial microservices. |
 | **[Photocraft](https://github.com/MokuLakshithReddy/photocraft)** | Personal Project / Exploration | Exploring clean-room image processing implementations in pure Rust. |
 | **[StorySparkAI](https://github.com/MokuLakshithReddy/story-spark-ai)** | Author | Multi-variation story generation engine and creative AI workflow experiment. |
+
+---
+
+### 📊 Activity Overview & Ecosystem Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/main/assets/activity-overview.svg" width="100%" alt="Activity Overview & Contributions" />
+</p>
 
 ---
 
