@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/MokuLakshithReddy"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23161b22&style=for-the-badge" alt="Profile Views" /></a>
     <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-350%2B_Installs-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
-    <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-35%2B-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
+    <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-37%2B-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
     <img src="https://img.shields.io/badge/Status-GitHub_Pro-161b22?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub Pro" />
   </p>
 </div>
@@ -19,12 +19,13 @@
 
 I build developer security tools, stateful agentic AI reasoning workflows, and verifiable web systems.
 
-**Currently:** Engineering autonomous developer tooling & browser telemetry intelligence  
+**Currently:** Engineering autonomous developer tooling & AI systems @ [FlyAxis Overseas](https://lakshith-s-portfolio.vercel.app/)  
 **Skills:** TypeScript / Next.js 16 · Python / FastAPI · Agentic AI · Supabase RLS · DevSecOps / AST Analysis
 
 [![Open VSX](https://img.shields.io/badge/Open_VSX-Secret_Leak_Detector-000?style=flat-square&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lakshith-000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/MokuLakshithReddy/Lakshith-s-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakshith--s--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://lakshith-s-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshith_Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mokulakshithreddy)
+[![Twitter/X](https://img.shields.io/badge/X-@Lakshith__54-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Lakshith_54)
 [![Email](https://img.shields.io/badge/Email-mokulakshithreddy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mokulakshithreddy@gmail.com)
 
 ---
@@ -34,6 +35,7 @@ I build developer security tools, stateful agentic AI reasoning workflows, and v
 ```yaml
 ┌── [CASE FILE: LAKSHITH REDDY // OPERATIVE DOSSIER] ─────────────────────┐
 │ Name        : Lakshith Reddy                                            │
+│ Affiliation : FlyAxis Overseas · Hyderabad, India                       │
 │ Discipline  : DevSecOps · Agentic AI · Security Engineering             │
 │ Modus       : Multi-signal AST analysis, entropy calculation & RLS      │
 │ Arsenal     : TypeScript, Python, Next.js 16, Supabase, PostgreSQL      │
@@ -42,6 +44,39 @@ I build developer security tools, stateful agentic AI reasoning workflows, and v
 ```
 
 > *Operating at the intersection of AI architecture and software security. Like an investigator in the shadows, I trace hidden credential leaks, deconstruct multi-step cognitive reasoning pathways, and audit the reality beneath declared policies.*
+
+---
+
+### 📊 Activity Overview & Ecosystem Contributions
+
+<p align="left">
+  <a href="https://github.com/MokuLakshithReddy"><img src="https://img.shields.io/badge/@FlyAxis--Overseas-161b22?style=flat-square&logo=github&logoColor=white" alt="@FlyAxis-Overseas" /></a>
+  <a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector"><img src="https://img.shields.io/badge/@Open--VSX-161b22?style=flat-square&logo=visualstudiocode&logoColor=white" alt="@Open-VSX" /></a>
+  <a href="https://github.com/MokuLakshithReddy/libreswan.github.io"><img src="https://img.shields.io/badge/@libreswan-161b22?style=flat-square&logo=linux&logoColor=white" alt="@libreswan" /></a>
+  <a href="https://github.com/MokuLakshithReddy/fineract-consumer-facing"><img src="https://img.shields.io/badge/@apache-161b22?style=flat-square&logo=apache&logoColor=white" alt="@apache" /></a>
+</p>
+
+```text
+Activity overview:
+Contributed to Secret_Leak_Detector, thinkmate, PrivacyLens, PiggyBack, campus-connect
+and 32 other public & private repositories across DevSecOps, AI agents, and systems.
+```
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <strong>Engineering Activity Breakdown</strong>
+      <ul>
+        <li>⚡ <strong>Commits (68%)</strong>: Core algorithmic engines, AST parsers, and full-stack route architectures.</li>
+        <li>🔄 <strong>Pull Requests (28%)</strong>: Feature branches, CI gate validations, and security refactoring.</li>
+        <li>🛡️ <strong>Code Review & Verification (4%)</strong>: Static code analysis, vulnerability audit triage, and regression testing.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MokuLakshithReddy&show_icons=true&bg_color=0d1117&text_color=8b949e&icon_color=ffffff&title_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true" width="95%" alt="GitHub Activity Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,9 +119,9 @@ Contributions across developer tooling, network security, and open-source infras
 - Built server-side SSE streaming pipeline via `@google/genai` (Gemini 2.5) with strict Zod state-machine transition guardrails.
 - Configured Supabase PostgreSQL Row-Level Security with verified concurrency rollback test suites.
 
-**Full-Stack & Systems Engineer (Indie / Freelance)** · 2025–Present  
-- Built and shipped production full-stack systems including **FounderLink** (founder-investor network) and **PiggyBack** (GIS freight capacity recovery).
-- Developed rapid-iteration web prototypes with GSAP smooth scrolling, high-reliability serverless APIs, and real-time state management.
+**AI & Systems Engineer — [FlyAxis Overseas](https://lakshith-s-portfolio.vercel.app/)** · 2025–Present  
+- Spearheading web systems architecture, automated verification pipelines, and AI agent integration workflows.
+- Architected rapid-iteration web prototypes with GSAP smooth scrolling, high-reliability serverless APIs, and real-time state management.
 
 ---
 
@@ -117,7 +152,7 @@ Core focus: Artificial Intelligence Systems, DevSecOps, Compiler & AST Analysis,
 
 ### 🔬 Classified R&D (Private Engineering Depth)
 
-Beyond public open-source tools, my engineering laboratory spans 17+ private repositories across critical systems:
+Beyond public open-source tools, my engineering laboratory spans 14+ private repositories across critical systems:
 
 * ⚡ **IntelliGrid & Electricity Optimization**: Smart energy grid load balancing, anomaly detection, and reactive power management.
 * 🌊 **BlueCarbon Registry**: Geospatial marine carbon offset & MRV (Measurement, Reporting & Verification) registry with Leaflet and Supabase.
@@ -201,8 +236,8 @@ Beyond public open-source tools, my engineering laboratory spans 17+ private rep
         <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
       </a>
       &nbsp;
-      <a href="https://x.com">
-        <img src="https://img.shields.io/badge/X-Follow-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
+      <a href="https://x.com/Lakshith_54">
+        <img src="https://img.shields.io/badge/X-@Lakshith__54-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
       </a>
       <br/><br/>
       <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">
