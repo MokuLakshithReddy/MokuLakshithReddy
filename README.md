@@ -13,6 +13,20 @@
   </p>
 </div>
 
+# Lakshith Reddy
+
+**AI Systems & Software Security Engineer · Author of Secret Leak Detector**
+
+I build developer security tools, stateful agentic AI reasoning workflows, and verifiable web systems.
+
+**Currently:** Engineering autonomous developer tooling & browser telemetry intelligence  
+**Skills:** TypeScript / Next.js 16 · Python / FastAPI · Agentic AI · Supabase RLS · DevSecOps / AST Analysis
+
+[![Open VSX](https://img.shields.io/badge/Open_VSX-Secret_Leak_Detector-000?style=flat-square&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lakshith-000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/MokuLakshithReddy/Lakshith-s-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshith_Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mokulakshithreddy)
+[![Email](https://img.shields.io/badge/Email-mokulakshithreddy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mokulakshithreddy@gmail.com)
+
 ---
 
 ### 🕵️‍♂️ Operative Dossier
@@ -31,15 +45,73 @@
 
 ---
 
-### 📂 Active Investigations & Flagship Projects
+### 📂 Projects
 
-| Case File | Classification | Core Architecture & Evidence | Technology Arsenal |
-| :--- | :--- | :--- | :--- |
-| 🛡️ **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Marketplace](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector) · 350+ Installs</sub> | **DevSecOps / Credential Hunting** | • 14+ cloud & AI detectors (AWS, OpenAI, Anthropic, Google, Slack, HF).<br>• Shannon entropy scoring ($H \ge 3.4$) + AST compiler parsing.<br>• 231 automated regression tests with fail-closed pre-commit hooks.<br>• CI regression gate ($F1 = 100\%$, $\text{Latency} \le 231\,\mu\text{s}$). | `TypeScript` `VS Code API` `CI/CD` `esbuild` |
-| 🧠 **[ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)**<br><sub>[Architecture & Specs](https://github.com/MokuLakshithReddy/thinkmate)</sub> | **Cognitive Interrogator / AI Systems** | • Stateful 5-mode reasoning pipeline: *Understand → Explore → Challenge → Decide → Act*.<br>• Server-side Zod validation preventing premature convergence.<br>• Server-Sent Events (SSE) streaming powered by Gemini 2.5.<br>• Supabase PostgreSQL RLS with verified concurrency rollback tests. | `Next.js 16` `TypeScript` `Supabase` `Gemini 2.5` |
-| 🔍 **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)**<br><sub>[Telemetry Auditor](https://github.com/MokuLakshithReddy/PrivacyLens)</sub> | **Browser Privacy Intelligence** | • Cross-examines declared privacy policies against actual network beacons.<br>• Client-side WebExtension capturing runtime telemetry payloads.<br>• FastAPI & Pytest backend with heuristic compliance scoring algorithms. | `TypeScript` `Python` `FastAPI` `WebExtensions` |
-| 🎓 **[CampusConnect](https://github.com/MokuLakshithReddy/campus-connect)**<br><sub>[Access Control Fortress](https://github.com/MokuLakshithReddy/campus-connect)</sub> | **Full-Stack Application** | • University club, event, and community platform.<br>• Multi-role authorization (Student, Organizer, Admin) backed by Supabase RLS.<br>• Automated identity lifecycle and database security testing suite. | `React` `TypeScript` `Vite` `Supabase` `Tailwind` |
-| 📦 **[PiggyBack](https://github.com/MokuLakshithReddy/PiggyBack)**<br><sub>[MOSAIC Engine](https://github.com/MokuLakshithReddy/PiggyBack)</sub> | **Shadow Logistics Optimization** | • Autonomous freight capacity optimization and shipment recovery engine.<br>• Dedicated property-test suites, baseline experiments, and GIS route modeling.<br>• Next.js 16 reactive interface with Lenis smooth scrolling and GSAP. | `Next.js 16` `TypeScript` `Leaflet GIS` `GSAP` |
+| Project | Outcome | Stack |
+|:---|:---|:---|
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer-first credential scanner on **Open VSX (350+ installs)**. 14+ cloud & AI detectors, compiler-backed AST parsing, 231 passed tests, and an enforced CI regression gate ($F1 = 100\%$, $\text{Latency} \le 231\,\mu\text{s}$). | TypeScript, VS Code API, esbuild, GitHub Actions |
+| **[ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)** | Personal AI thinking partner with an adaptive **5-mode reasoning workflow** (*Understand → Explore → Challenge → Decide → Act*), server-side state machine, SSE streaming (Gemini 2.5), and Supabase RLS rollback testing. | Next.js 16, TypeScript, Supabase, Gemini 2.5 |
+| **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)** | Evidence-driven privacy intelligence cross-examining declared website privacy policies against **real-time browser network telemetry payloads**. | TypeScript, Python, FastAPI, WebExtensions |
+| **[PiggyBack (MOSAIC Engine)](https://github.com/MokuLakshithReddy/PiggyBack)** | Autonomous freight capacity optimization & shipment recovery engine backed by **property-test suites, baseline experiments, and GIS route simulations**. | Next.js 16, TypeScript, Leaflet GIS, GSAP |
+| **[CampusConnect](https://github.com/MokuLakshithReddy/campus-connect)** | College club and community platform with multi-role authorization (Student, Organizer, Admin) and **automated PostgreSQL RLS access control verification**. | React, TypeScript, Vite, Supabase, Tailwind |
+| **[AstraLab](https://github.com/MokuLakshithReddy/AstraLab)** | AI-powered virtual laboratory simulating chemistry reactions with **real-time hazardous combination detection** to prevent dangerous reactions. | HTML5 Canvas, JavaScript, Web Security |
+
+---
+
+### 🌐 Open Source & Upstream Engineering
+
+Contributions across developer tooling, network security, and open-source infrastructure:
+
+| Project / Ecosystem | Focus & Contribution |
+|:---|:---|
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** | Primary Author & Maintainer — Published Open VSX extension, OASIS SARIF v2.1.0 CI reporting, fail-closed git pre-commit hooks, and multi-scanner benchmarks. |
+| **[Libreswan Docs](https://github.com/MokuLakshithReddy/libreswan.github.io)** | Open-source IPsec & IKE VPN protocol documentation review and configuration reference maintenance. |
+| **[Apache Fineract](https://github.com/MokuLakshithReddy/fineract-consumer-facing)** | Exploration and consumer-facing integration review for open-source digital microfinance software. |
+| **[Photocraft](https://github.com/MokuLakshithReddy/photocraft)** | Open-source clean-room reimplementation of Adobe Photoshop in pure Rust. |
+| **[StorySparkAI](https://github.com/MokuLakshithReddy/story-spark-ai)** | Open-source multi-variation creative story generation engine. |
+
+---
+
+### 💼 Experience
+
+**Creator & Lead Maintainer — [Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** · 2026–Present  
+- Engineered zero-leak developer tooling from scratch, growing to **350+ installs on Open VSX**.
+- Implemented Shannon entropy scoring ($H \ge 3.4$) alongside official TypeScript compiler AST analysis (`ts.createSourceFile`) for zero-allocation pre-commit scanning.
+- Designed fail-closed git hooks and CI SARIF exports with automated regression gating.
+
+**Systems Architect — [ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)** · 2026–Present  
+- Architected an adaptive 5-mode cognitive problem decomposition workflow to prevent premature convergence in AI applications.
+- Built server-side SSE streaming pipeline via `@google/genai` (Gemini 2.5) with strict Zod state-machine transition guardrails.
+- Configured Supabase PostgreSQL Row-Level Security with verified concurrency rollback test suites.
+
+**Full-Stack & Systems Engineer (Indie / Freelance)** · 2025–Present  
+- Built and shipped production full-stack systems including **FounderLink** (founder-investor network) and **PiggyBack** (GIS freight capacity recovery).
+- Developed rapid-iteration web prototypes with GSAP smooth scrolling, high-reliability serverless APIs, and real-time state management.
+
+---
+
+### 🏆 Awards & Recognitions
+
+🏅 **Smart India Hackathon (SIH)** — Selected participant for OceanEmbed & Marine Geospatial Telemetry analytics  
+🛡️ **Open VSX Featured DevSec Tool** — 350+ developer downloads for Secret Leak Detector  
+⚡ **GitHub Pro Developer** — Verified GitHub Pro status for open-source tooling and systems engineering  
+🧪 **AstraLab Innovation Showcase** — Real-time reactive safety simulation for chemistry education
+
+---
+
+### 🎓 Education
+
+**B.Tech in Computer Science & Engineering**  
+Core focus: Artificial Intelligence Systems, DevSecOps, Compiler & AST Analysis, Distributed Architectures
+
+---
+
+### 📝 Technical Writing & Research Specs
+
+- [Empirical Multi-Scanner Benchmarks: Secret Leak Detector vs Gitleaks & TruffleHog](https://github.com/MokuLakshithReddy/Secret_Leak_Detector#multi-scanner-empirical-benchmarks-author-reported-internal-results)
+- [ThinkMate 5-Mode System Architecture & State Machine Specifications](https://github.com/MokuLakshithReddy/thinkmate#-system-architecture)
+- [PrivacyLens: Policy vs. Reality Browser Telemetry Intelligence Pipeline](https://github.com/MokuLakshithReddy/PrivacyLens)
+- [PiggyBack MOSAIC Engine Property-Based Testing & Baseline Evaluation](https://github.com/MokuLakshithReddy/PiggyBack)
 
 ---
 
