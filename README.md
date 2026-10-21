@@ -48,12 +48,12 @@ Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic wor
 
 | Project | Outcome | Stack |
 |:---|:---|:---|
-| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer credential scanner on **[Open VSX](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)**. 14+ cloud & AI detectors, TypeScript compiler AST parsing, and Shannon entropy analysis; evaluated against synthetic regression test suites ($F1 = 100\%$ on test corpus; author-reported benchmarks) with CI regression gating. | TypeScript, VS Code API, esbuild, GitHub Actions |
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer credential scanner on **[Open VSX](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)**. 14+ cloud & AI detectors, TypeScript compiler AST parsing, and Shannon entropy analysis; benchmarked against an internal [synthetic test corpus](https://github.com/MokuLakshithReddy/Secret_Leak_Detector#multi-scanner-empirical-benchmarks-author-reported-internal-results) with CI regression gating. | TypeScript, VS Code API, esbuild, GitHub Actions |
 | **[ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)** | Personal AI thinking partner with an adaptive **5-mode reasoning workflow** (*Understand → Explore → Challenge → Decide → Act*), server-side state machine, SSE streaming (Gemini 2.5), and Supabase RLS rollback testing. | Next.js 16, TypeScript, Supabase, Gemini 2.5 |
-| **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)** | Evidence-driven privacy intelligence cross-examining declared website privacy policies against **real-time browser network telemetry payloads**. | TypeScript, Python, FastAPI, WebExtensions |
+| **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)** | Evidence-driven privacy intelligence cross-examining declared website privacy policies against **real-time browser network request telemetry and tracking metadata**. | TypeScript, Python, FastAPI, WebExtensions |
 | **[PiggyBack (MOSAIC Engine)](https://github.com/MokuLakshithReddy/PiggyBack)** | Autonomous freight capacity optimization & shipment recovery engine backed by **property-test suites, baseline experiments, and GIS route simulations**. | Next.js 16, TypeScript, Leaflet GIS, GSAP |
-| **[CampusConnect](https://github.com/MokuLakshithReddy/campus-connect)** | College club and community platform with multi-role authorization (Student, Organizer, Admin) and **automated PostgreSQL RLS access control verification**. | React, TypeScript, Vite, Supabase, Tailwind |
-| **[AstraLab](https://github.com/MokuLakshithReddy/AstraLab)** | AI-powered virtual laboratory simulating chemistry reactions with **real-time hazardous combination detection** to prevent dangerous reactions. | HTML5 Canvas, JavaScript, Web Security |
+| **[CampusConnect](https://github.com/MokuLakshithReddy/campus-connect)** | College community platform with multi-role authorization (Student, Organizer, Admin) and [automated PostgreSQL RLS access-control test suites](https://github.com/MokuLakshithReddy/campus-connect/blob/main/scripts/run_ci_postgres_integration_tests.cjs). | React, TypeScript, Vite, Supabase, Tailwind |
+| **[AstraLab](https://github.com/MokuLakshithReddy/AstraLab)** | AI-powered virtual laboratory simulating chemistry reactions that **flags potentially hazardous chemical combinations** during experiments. | HTML5 Canvas, JavaScript, Web Security |
 
 ---
 
@@ -94,7 +94,7 @@ Upstream pull requests, open-source tooling, and merged contributions:
 
 🏅 **Smart India Hackathon (SIH)** — College internal hackathon nominee / team participant for OceanEmbed marine geospatial telemetry analytics  
 📦 **Open VSX Marketplace** — Published Secret Leak Detector developer tooling on the Eclipse Open VSX registry  
-🧪 **AstraLab Innovation Showcase** — Real-time reactive safety simulation for chemistry education with hazardous combination detection  
+🧪 **AstraLab Innovation Showcase** — Reactive chemistry educational simulation that flags potentially hazardous combinations  
 
 ---
 
@@ -108,9 +108,9 @@ Focus: Artificial Intelligence, Machine Learning Systems, Software Engineering, 
 
 ### 📝 Technical Writing & Research Specs
 
-- [Empirical Multi-Scanner Benchmarks: Secret Leak Detector vs Gitleaks & TruffleHog](https://github.com/MokuLakshithReddy/Secret_Leak_Detector#multi-scanner-empirical-benchmarks-author-reported-internal-results)
+- [Author-Reported Synthetic Scanner Benchmarks: Secret Leak Detector Methodology](https://github.com/MokuLakshithReddy/Secret_Leak_Detector#multi-scanner-empirical-benchmarks-author-reported-internal-results)
 - [ThinkMate 5-Mode System Architecture & State Machine Specifications](https://github.com/MokuLakshithReddy/thinkmate#-system-architecture)
-- [PrivacyLens: Policy vs. Reality Browser Telemetry Intelligence Pipeline](https://github.com/MokuLakshithReddy/PrivacyLens)
+- [PrivacyLens: Policy vs. Reality Browser Network Telemetry Intelligence Pipeline](https://github.com/MokuLakshithReddy/PrivacyLens)
 - [PiggyBack MOSAIC Engine Property-Based Testing & Baseline Evaluation](https://github.com/MokuLakshithReddy/PiggyBack)
 
 ---
@@ -141,7 +141,7 @@ Technologies prioritized and validated across featured production tools and open
       <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=ffffff" alt="Supabase" />
       <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
       <br>
-      <sub><em>TypeScript Compiler AST parsing (Secret Leak Detector) · 5-mode AI state machine (ThinkMate) · Telemetry interception (PrivacyLens)</em></sub>
+      <sub><em>TypeScript Compiler AST parsing (Secret Leak Detector) · 5-mode AI state machine (ThinkMate) · Network metadata analysis (PrivacyLens)</em></sub>
     </td>
   </tr>
   <tr>
