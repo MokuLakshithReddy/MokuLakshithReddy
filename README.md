@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://github.com/MokuLakshithReddy"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23161b22&style=for-the-badge" alt="Profile Views" /></a>
-    <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-350%2B_Installs-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
+    <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-600%2B_Downloads-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
     <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-37%2B-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
     <img src="https://img.shields.io/badge/Status-GitHub_Pro-161b22?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub Pro" />
   </p>
@@ -59,7 +59,7 @@ I build developer security tools, stateful agentic AI reasoning workflows, and v
 
 | Project | Outcome | Stack |
 |:---|:---|:---|
-| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer-first credential scanner on **Open VSX (350+ installs)**. 14+ cloud & AI detectors, compiler-backed AST parsing, 231 passed tests, and an enforced CI regression gate ($F1 = 100\%$, $\text{Latency} \le 231\,\mu\text{s}$). | TypeScript, VS Code API, esbuild, GitHub Actions |
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer-first credential scanner on **Open VSX (600+ downloads)**. 14+ cloud & AI detectors, compiler-backed AST parsing, 231 passed tests, and an enforced CI regression gate ($F1 = 100\%$, $\text{Latency} \le 231\,\mu\text{s}$). | TypeScript, VS Code API, esbuild, GitHub Actions |
 | **[ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)** | Personal AI thinking partner with an adaptive **5-mode reasoning workflow** (*Understand → Explore → Challenge → Decide → Act*), server-side state machine, SSE streaming (Gemini 2.5), and Supabase RLS rollback testing. | Next.js 16, TypeScript, Supabase, Gemini 2.5 |
 | **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)** | Evidence-driven privacy intelligence cross-examining declared website privacy policies against **real-time browser network telemetry payloads**. | TypeScript, Python, FastAPI, WebExtensions |
 | **[PiggyBack (MOSAIC Engine)](https://github.com/MokuLakshithReddy/PiggyBack)** | Autonomous freight capacity optimization & shipment recovery engine backed by **property-test suites, baseline experiments, and GIS route simulations**. | Next.js 16, TypeScript, Leaflet GIS, GSAP |
@@ -85,7 +85,7 @@ Contributions across developer tooling, network security, and open-source infras
 ### 💼 Experience
 
 **Creator & Lead Maintainer — [Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** · 2026–Present  
-- Engineered zero-leak developer tooling from scratch, growing to **350+ installs on Open VSX**.
+- Engineered zero-leak developer tooling from scratch, growing to **600+ downloads on Open VSX**.
 - Implemented Shannon entropy scoring ($H \ge 3.4$) alongside official TypeScript compiler AST analysis (`ts.createSourceFile`) for zero-allocation pre-commit scanning.
 - Designed fail-closed git hooks and CI SARIF exports with automated regression gating.
 
@@ -103,7 +103,7 @@ Contributions across developer tooling, network security, and open-source infras
 ### 🏆 Awards & Recognitions
 
 🏅 **Smart India Hackathon (SIH)** — Selected participant for OceanEmbed & Marine Geospatial Telemetry analytics  
-🛡️ **Open VSX Featured DevSec Tool** — 350+ developer downloads for Secret Leak Detector  
+🛡️ **Open VSX Featured DevSec Tool** — 600+ developer downloads for Secret Leak Detector  
 ⚡ **GitHub Pro Developer** — Verified GitHub Pro status for open-source tooling and systems engineering  
 🧪 **AstraLab Innovation Showcase** — Real-time reactive safety simulation for chemistry education
 
