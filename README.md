@@ -7,8 +7,7 @@
 
   <p align="center">
     <a href="https://github.com/MokuLakshithReddy"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMokuLakshithReddy&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%23161b22&style=for-the-badge" alt="Profile Views" /></a>
-    <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/badge/Open_VSX-600%2B_Downloads-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX" /></a>
-    <a href="https://github.com/MokuLakshithReddy?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-37%2B-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
+    <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector"><img src="https://img.shields.io/open-vsx/dt/MokuLakshithReddy/secret-leak-detector?style=for-the-badge&label=Open%20VSX%20Downloads&color=161b22&labelColor=000000&logo=visualstudiocode&logoColor=ffffff" alt="Open VSX Downloads" /></a>
     <img src="https://img.shields.io/badge/Status-GitHub_Pro-161b22?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub Pro" />
   </p>
 </div>
@@ -51,7 +50,7 @@ Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic wor
 
 | Project | Outcome | Stack |
 |:---|:---|:---|
-| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer credential scanner on **Open VSX (600+ downloads)**. 14+ cloud & AI detectors, TypeScript compiler AST parsing, and Shannon entropy analysis; evaluated against synthetic regression test suites ($F1 = 100\%$ on test corpus; author-reported benchmarks) with CI regression gating. | TypeScript, VS Code API, esbuild, GitHub Actions |
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)**<br><sub>[Open VSX Listing](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)</sub> | Developer credential scanner on **[Open VSX](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)**. 14+ cloud & AI detectors, TypeScript compiler AST parsing, and Shannon entropy analysis; evaluated against synthetic regression test suites ($F1 = 100\%$ on test corpus; author-reported benchmarks) with CI regression gating. | TypeScript, VS Code API, esbuild, GitHub Actions |
 | **[ThinkMate](https://github.com/MokuLakshithReddy/thinkmate)** | Personal AI thinking partner with an adaptive **5-mode reasoning workflow** (*Understand → Explore → Challenge → Decide → Act*), server-side state machine, SSE streaming (Gemini 2.5), and Supabase RLS rollback testing. | Next.js 16, TypeScript, Supabase, Gemini 2.5 |
 | **[PrivacyLens](https://github.com/MokuLakshithReddy/PrivacyLens)** | Evidence-driven privacy intelligence cross-examining declared website privacy policies against **real-time browser network telemetry payloads**. | TypeScript, Python, FastAPI, WebExtensions |
 | **[PiggyBack (MOSAIC Engine)](https://github.com/MokuLakshithReddy/PiggyBack)** | Autonomous freight capacity optimization & shipment recovery engine backed by **property-test suites, baseline experiments, and GIS route simulations**. | Next.js 16, TypeScript, Leaflet GIS, GSAP |
@@ -62,15 +61,16 @@ Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic wor
 
 ### 🌐 Open Source & Upstream Engineering
 
-Contributions, upstream pull requests, and open-source tooling:
+Upstream pull requests, open-source tooling, and merged contributions:
 
-| Project / Ecosystem | Type | Details |
+| Project / Ecosystem | Status | Contribution & Pull Request |
 |:---|:---|:---|
-| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** | Author & Maintainer | Published VS Code extension on Open VSX (600+ downloads), OASIS SARIF v2.1.0 CI reporting, TypeScript AST parsers, and regression suites. |
-| **[libreswan/libreswan.github.io](https://github.com/libreswan/libreswan.github.io)** | Upstream Contributor | Pull request contribution for automated default layout page title generation ([PR #4](https://github.com/libreswan/libreswan.github.io/pull/4)). |
-| **[Apache Fineract](https://github.com/MokuLakshithReddy/fineract-consumer-facing)** | Exploration / Fork | Codebase exploration and architectural review of open-source financial microservices. |
-| **[Photocraft](https://github.com/MokuLakshithReddy/photocraft)** | Personal Project / Exploration | Exploring clean-room image processing implementations in pure Rust. |
-| **[StorySparkAI](https://github.com/MokuLakshithReddy/story-spark-ai)** | Author | Multi-variation story generation engine and creative AI workflow experiment. |
+| **[Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** | Author & Maintainer | Published VS Code extension on [Open VSX](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector), compiler-backed AST analysis, and OASIS SARIF v2.1.0 CI reporting. |
+| **[libreswan/libreswan.github.io](https://github.com/libreswan/libreswan.github.io)** | Merged Upstream | Auto-generated page title in default layout ([PR #7](https://github.com/libreswan/libreswan.github.io/pull/7)). |
+| **[apache/fineract-consumer-facing](https://github.com/apache/fineract-consumer-facing)** | Merged Upstream | Added correlationID support across frontend and backend ([PR #149](https://github.com/apache/fineract-consumer-facing/pull/149)). |
+| **[storytold/photocraft](https://github.com/storytold/photocraft)** | Merged Upstream | Nearest Neighbor reduction sampling in Rust ([PR #1141](https://github.com/storytold/photocraft/pull/1141)). |
+| **[xerj-org/xerj](https://github.com/xerj-org/xerj)** | Merged Upstream | Standalone and infix operator parser in query strings ([PR #1804](https://github.com/xerj-org/xerj/pull/1804)). |
+| **[modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)** | Upstream PR | RFC 6570 prefix modifiers support in UriTemplate ([PR #3003](https://github.com/modelcontextprotocol/typescript-sdk/pull/3003)). |
 
 ---
 
@@ -81,7 +81,7 @@ Contributions, upstream pull requests, and open-source tooling:
 - **Technical & Product**: Architecting the web platform, automated lead/client workflows, serverless APIs, and responsive UI performance with GSAP.
 
 **Creator & Lead Maintainer — [Secret Leak Detector](https://github.com/MokuLakshithReddy/Secret_Leak_Detector)** · 2026–Present  
-- Built an open-source credential scanner extension from scratch, reaching **600+ downloads on Open VSX**.
+- Built an open-source credential scanner extension from scratch, published and maintained on **[Open VSX](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)**.
 - Implemented Shannon entropy scoring ($H \ge 3.4$) alongside TypeScript compiler AST analysis (`ts.createSourceFile`) for pre-commit scanning to minimize false positives on standard code.
 - Automated fail-closed git pre-commit hooks and OASIS SARIF v2.1.0 exports with GitHub Actions CI gates.
 
@@ -95,7 +95,7 @@ Contributions, upstream pull requests, and open-source tooling:
 ### 🏆 Achievements & Milestones
 
 🏅 **Smart India Hackathon (SIH)** — College internal hackathon nominee / team participant for OceanEmbed marine geospatial telemetry analytics  
-📦 **Open VSX Milestone** — Crossed 600+ downloads for Secret Leak Detector extension  
+📦 **Open VSX Marketplace** — Published Secret Leak Detector developer tooling on the Eclipse Open VSX registry  
 🧪 **AstraLab Innovation Showcase** — Real-time reactive safety simulation for chemistry education with hazardous combination detection  
 
 ---
