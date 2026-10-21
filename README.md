@@ -17,7 +17,7 @@
 
 Author of **Secret Leak Detector** (Open VSX) · Builder of stateful agentic workflows & verifiable web platforms.
 
-**Currently:** Managing Director & Technical Lead @ **FlyAxis Overseas**  
+**Currently:** Managing Director & Technical Lead @ [FlyAxis Overseas](https://flyaxisoverseas.com/)  
 **Skills:** TypeScript / Next.js 16 · Python / FastAPI · Agentic AI · Supabase PostgreSQL RLS · AST Analysis
 
 [![Open VSX](https://img.shields.io/badge/Open_VSX-Secret_Leak_Detector-000?style=flat-square&logo=visualstudiocode&logoColor=white)](https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector)
@@ -74,7 +74,7 @@ Upstream pull requests, open-source tooling, and merged contributions:
 
 ### 💼 Experience
 
-**Managing Director & Technical Lead — FlyAxis Overseas** · 2025–Present  
+**Managing Director & Technical Lead — [FlyAxis Overseas](https://flyaxisoverseas.com/)** · 2025–Present  
 - **Executive Leadership**: Directing organizational roadmap, digital presence, and operational strategy.
 - **Technical & Product**: Architecting the web platform, automated lead/client workflows, serverless APIs, and responsive UI performance with GSAP.
 
