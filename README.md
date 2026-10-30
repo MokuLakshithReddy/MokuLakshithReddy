@@ -47,19 +47,62 @@ I'm a B.Tech student in **Artificial Intelligence & Machine Learning at Malla Re
   <img src="https://streak-stats.demolab.com?user=MokuLakshithReddy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contributions and streak statistics" width="70%" />
 </p>
 
+
 ## Achievements
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚀 Open VSX</h3>
+      <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">
+        Published Extension
+      </a>
+      <br/>
+      <sub>Secret Leak Detector</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏆 4 Merged PRs</h3>
+      <a href="https://github.com/MokuLakshithReddy?tab=repositories">
+        Upstream Contributions
+      </a>
+      <br/>
+      <sub>Apache · Photocraft · XERJ · Libreswan</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔄 1 Open PR</h3>
+      <a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3003">
+        MCP TypeScript SDK
+      </a>
+      <br/>
+      <sub>RFC 6570 URI-template support</sub>
+    </td>
+  </tr>
+</table>
+
+
+## Contribution Arcade
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MokuLakshithReddy&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile achievement trophies" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man animated GitHub contribution graph"
+      src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
-## Contribution arcade
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MokuLakshithReddy/MokuLakshithReddy/output/github-contribution-grid-snake.gif" alt="Animated contribution graph game" width="100%" />
+  <sub>Powered by my GitHub contributions. Keep coding, keep playing! 👾</sub>
 </p>
-
-<p align="center"><sub>The contribution animation is generated from my GitHub contribution graph by GitHub Actions.</sub></p>
 
 ## Featured projects
 
