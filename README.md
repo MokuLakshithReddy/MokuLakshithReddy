@@ -15,19 +15,45 @@
     <img src="https://komarev.com/ghpvc/?username=MokuLakshithReddy&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 </div>
-
-<img align="right" width="290" src="./assets/coding-from-home.png" alt="Illustration of Lakshith coding from home" />
-
-## About me
-
-I'm a B.Tech student in **Artificial Intelligence & Machine Learning at Malla Reddy Vishwavidyapeeth**. I build AI-powered applications and developer tools that solve practical problems, make systems safer, and produce results that can be verified—not just claimed.
-
-- 🤖 **AI engineering:** AI agents, tool execution, reasoning workflows, and autonomous coding systems.
-- 🛡️ **Developer security:** credential detection, static analysis, and privacy-focused tooling.
-- 🧩 **Product engineering:** full-stack applications, workflow automation, and practical software products.
-- 🚀 **Leadership:** Managing Director at [Fly Axis Overseas](https://flyaxisoverseas.com/).
-
-<br clear="right" />
+<table width="100%" border="0">
+  <tr>
+    <td width="68%" valign="top">
+      <h2>About me</h2>
+      <p>
+        I'm a B.Tech student in
+        <strong>Artificial Intelligence & Machine Learning at Malla Reddy Vishwavidyapeeth</strong>.
+        I build AI-powered applications and developer tools that solve practical
+        problems, make systems safer, and produce results that can be verified—not just claimed.
+      </p>
+      <ul>
+        <li>
+          🤖 <strong>AI engineering:</strong>
+          AI agents, tool execution, reasoning workflows, and autonomous coding systems.
+        </li>
+        <li>
+          🛡️ <strong>Developer security:</strong>
+          Credential detection, static analysis, and privacy-focused tooling.
+        </li>
+        <li>
+          🧩 <strong>Product engineering:</strong>
+          Full-stack applications, workflow automation, and practical software products.
+        </li>
+        <li>
+          🚀 <strong>Leadership:</strong>
+          Managing Director at
+          <a href="https://flyaxisoverseas.com/">Fly Axis Overseas</a>.
+        </li>
+      </ul>
+    </td>
+    <td width="32%" valign="middle" align="center">
+      <img
+        src="./assets/coding-from-home.png"
+        width="260"
+        alt="Lakshith coding from home"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
