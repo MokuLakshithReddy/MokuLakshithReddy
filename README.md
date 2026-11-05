@@ -4,6 +4,9 @@
   <p><strong>AI & ML Undergraduate · AI Agents · Developer Tools · Security Engineering</strong></p>
   <p>Think disruptive. Build relentlessly.</p>
   <p>
+    <a href="https://hub.xerj.org/contributors/MokuLakshithReddy"><img src="https://hub.xerj.org/contributors/MokuLakshithReddy/badge.svg" alt="XERJ Corpus Hub Contributor" /></a>
+  </p>
+  <p>
     <a href="https://github.com/MokuLakshithReddy"><img src="https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
     <a href="https://linkedin.com/in/mokulakshithreddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://lakshith-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-161b22?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
@@ -78,7 +81,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>🚀 Open VSX</h3>
       <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">
         Published Extension
@@ -86,7 +89,7 @@
       <br/>
       <sub>Secret Leak Detector</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>🏆 4 Merged PRs</h3>
       <a href="https://github.com/MokuLakshithReddy?tab=repositories">
         Upstream Contributions
@@ -94,7 +97,15 @@
       <br/>
       <sub>Apache · Photocraft · XERJ · Libreswan</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <h3>🧠 XERJ Corpus</h3>
+      <a href="https://hub.xerj.org/contributors/MokuLakshithReddy">
+        Corpus Contributor
+      </a>
+      <br/>
+      <sub>CampusConnect · AI Agent Reference</sub>
+    </td>
+    <td align="center" width="25%">
       <h3>🔄 1 Open PR</h3>
       <a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3003">
         MCP TypeScript SDK
@@ -178,6 +189,7 @@
       <p>A college community platform for club workspaces, announcements, events, and student collaboration.</p>
       <p><sub>React · TypeScript · Vite · Supabase</sub></p>
       <a href="https://github.com/MokuLakshithReddy/campus-connect">Repository</a> ·
+      <a href="https://hub.xerj.org/corpus/mokulakshithreddy--campus-connect">XERJ Corpus Index</a> ·
       <a href="https://github.com/MokuLakshithReddy/campus-connect/releases">Releases & Android build</a>
     </td>
   </tr>
