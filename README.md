@@ -69,11 +69,7 @@
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MokuLakshithReddy&theme=github_dark" alt="GitHub profile activity summary" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MokuLakshithReddy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contributions and streak statistics" width="70%" />
+  <img src="./assets/activity-overview.svg" alt="GitHub activity overview and contribution radar" width="98%" />
 </p>
 
 
@@ -146,34 +142,31 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector">🛡️ Secret Leak Detector</a></h3>
+      <h3><a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">🛡️ Secret Leak Detector</a></h3>
       <p>A VS Code extension and CLI for finding potential credential leaks, with multiple detection signals and Git-hook protection.</p>
       <p><sub>TypeScript · VS Code · CLI · GitHub Actions</sub></p>
-      <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">Open VSX</a> ·
-      <a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector/actions">CI</a> ·
-      <a href="https://github.com/MokuLakshithReddy/Secret_Leak_Detector#multi-scanner-empirical-benchmarks-author-reported-internal-results">Benchmarks</a>
+      <a href="https://open-vsx.org/extension/MokuLakshithReddy/secret-leak-detector">Open VSX Extension</a> ·
+      <a href="https://lakshith-s-portfolio.vercel.app/#evidence">Evidence & Benchmarks</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MokuLakshithReddy/local-ai-execution-agent">⚙️ Local AI Execution Agent</a></h3>
+      <h3><a href="https://lakshith-s-portfolio.vercel.app/#projects">⚙️ Local AI Execution Agent</a></h3>
       <p>A local-first, model-agnostic execution framework focused on bounded tools, human approvals, and independent verification.</p>
       <p><sub>Python · FastAPI · React · SQLite</sub></p>
-      <a href="https://github.com/MokuLakshithReddy/local-ai-execution-agent/blob/main/EVIDENCE.md">Evidence</a> ·
-      <a href="https://github.com/MokuLakshithReddy/local-ai-execution-agent/actions">CI</a>
+      <a href="https://lakshith-s-portfolio.vercel.app/#evidence">Evidence & Verification</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MokuLakshithReddy/autonomous-ai-coding-orchestrator">🤖 Autonomous AI Coding Orchestrator</a></h3>
+      <h3><a href="https://lakshith-s-portfolio.vercel.app/#projects">🤖 Autonomous AI Coding Orchestrator</a></h3>
       <p>A closed-loop coding system coordinating planning, code changes, independent verification, and repair when checks fail.</p>
       <p><sub>TypeScript · Node.js · Fastify · React · SQLite</sub></p>
-      <a href="https://github.com/MokuLakshithReddy/autonomous-ai-coding-orchestrator">Repository</a> ·
-      <a href="https://github.com/MokuLakshithReddy/autonomous-ai-coding-orchestrator/actions">CI</a>
+      <a href="https://lakshith-s-portfolio.vercel.app/#evidence">Evidence & Benchmarks</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MokuLakshithReddy/thinkmate">🧠 ThinkMate</a></h3>
+      <h3><a href="https://lakshith-s-portfolio.vercel.app/#projects">🧠 ThinkMate</a></h3>
       <p>A personal AI thinking partner that guides users through understanding problems, exploring alternatives, challenging assumptions, deciding, and acting.</p>
       <p><sub>Next.js · TypeScript · Supabase · Gemini</sub></p>
-      <a href="https://github.com/MokuLakshithReddy/thinkmate">Repository & architecture</a>
+      <a href="https://lakshith-s-portfolio.vercel.app/#projects">Project showcase & architecture</a>
     </td>
   </tr>
   <tr>
@@ -201,11 +194,11 @@
       <a href="https://github.com/MokuLakshithReddy/PiggyBack">Repository & testing notes</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MokuLakshithReddy/Cluely-AI-Desktop-Assistant">🖥️ Cluely Copilot</a></h3>
-      <p>A Windows desktop AI assistant exploring real-time screen context and conversation-audio workflows, with a focus on privacy and operational verification.</p>
-      <p><sub>TypeScript · Electron · React</sub></p>
-      <a href="https://github.com/MokuLakshithReddy/Cluely-AI-Desktop-Assistant">Repository</a> ·
-      <a href="https://github.com/MokuLakshithReddy/Cluely-AI-Desktop-Assistant/releases">Releases</a>
+      <h3><a href="https://github.com/MokuLakshithReddy/AstraLab">🧪 AstraLab</a></h3>
+      <p>An AI-powered chemistry simulation prototype that combines interactive reaction visualizations with real-time hazard detection.</p>
+      <p><sub>JavaScript · HTML5 Canvas · Heuristic Rules · Educational Tech</sub></p>
+      <a href="https://github.com/MokuLakshithReddy/AstraLab">Repository</a> ·
+      <a href="https://lakshith-s-portfolio.vercel.app/#projects">Portfolio showcase</a>
     </td>
   </tr>
 </table>
