@@ -1,0 +1,48 @@
+name: Update GitHub activity graph
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_activity_graph.py"
+      - ".github/workflows/update-activity-graph.yml"
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Generate activity graph SVG
+        run: python scripts/generate_activity_graph.py
+
+      - name: Commit refreshed graph
+        run: |
+          if git diff --quiet -- assets/activity-graph.svg; then
+            echo "Activity graph is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git commit -m "chore: refresh GitHub activity graph"
+          git push
