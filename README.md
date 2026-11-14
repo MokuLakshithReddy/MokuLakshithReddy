@@ -66,20 +66,16 @@
   </a>
 </p>
 
-## GitHub contribution streak
+## GitHub activity & contribution streak
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=MokuLakshithReddy&theme=dark&timezone=Asia%2FKolkata"
-    />
+  <a href="https://gitshine.com/stats/MokuLakshithReddy">
     <img
-      src="https://streak-stats.demolab.com/?user=MokuLakshithReddy&theme=default&timezone=Asia%2FKolkata"
-      alt="Live GitHub contribution streak for MokuLakshithReddy, showing total contributions, current streak, and longest streak"
-      width="80%"
+      src="https://gitshine.com/card/MokuLakshithReddy"
+      alt="Live GitHub activity card for MokuLakshithReddy, showing the last year's contribution graph, total contributions, current and longest streaks, stars, and top languages"
+      width="100%"
     />
-  </picture>
+  </a>
 </p>
 
 
