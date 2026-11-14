@@ -69,8 +69,17 @@
 ## GitHub contribution streak
 
 <p align="center">
-  <img src="./assets/github-streak-dark.svg" alt="GitHub contribution streak — dark theme: 7,438 total contributions, 6-day current streak, 29-day longest streak" width="49%" />
-  <img src="./assets/github-streak-light.svg" alt="GitHub contribution streak — light theme: 658 total contributions, 0-day current streak, 7-day longest streak" width="49%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=MokuLakshithReddy&theme=dark&timezone=Asia%2FKolkata"
+    />
+    <img
+      src="https://streak-stats.demolab.com/?user=MokuLakshithReddy&theme=default&timezone=Asia%2FKolkata"
+      alt="Live GitHub contribution streak for MokuLakshithReddy, showing total contributions, current streak, and longest streak"
+      width="80%"
+    />
+  </picture>
 </p>
 
 
