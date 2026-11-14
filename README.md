@@ -66,10 +66,11 @@
   </a>
 </p>
 
-## GitHub at a glance
+## GitHub contribution streak
 
 <p align="center">
-  <img src="./assets/activity-overview.svg" alt="GitHub activity overview and contribution radar" width="98%" />
+  <img src="./assets/github-streak-dark.svg" alt="GitHub contribution streak — dark theme: 7,438 total contributions, 6-day current streak, 29-day longest streak" width="49%" />
+  <img src="./assets/github-streak-light.svg" alt="GitHub contribution streak — light theme: 658 total contributions, 0-day current streak, 7-day longest streak" width="49%" />
 </p>
 
 
