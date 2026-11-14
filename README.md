@@ -79,6 +79,18 @@
 </p>
 
 
+## GitHub activity graph
+
+<p align="center">
+  <a href="https://github.com/MokuLakshithReddy">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MokuLakshithReddy&from=2025-11-14&to=2026-11-14&theme=github-compact&area=true&hide_border=true&custom_title=GitHub%20Activity%20-%20Last%2012%20Months"
+      alt="GitHub contribution activity graph for MokuLakshithReddy covering November 14, 2025 through November 14, 2026"
+      width="100%"
+    />
+  </a>
+</p>
+
 ## Achievements
 
 <table align="center" width="100%">
